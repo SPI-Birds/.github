@@ -35,7 +35,7 @@ Organisation_name/.github is a special repository that you can use to customise 
 
 <hr>
 
-<img src="/Users/FH/Library/CloudStorage/Dropbox/git/SPI-Birds/_githubrepos_SPI-Birds/spi-birds.github.io/images/SPI-Birds_banner.png" class="center">
+<img src="https://github.com/SPI-Birds/.github/profile/SPI-Birds_banner.png" class="center">
 
 <hr>
 
