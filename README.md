@@ -1,4 +1,3 @@
-Organisation_name/.github is a special repository that you can use to customise the public organisation profile:
-- create a /.github repo, make it public
-- create a /profile folder
-- add a README.md
+This is a special repository to customise the organisation's public profile:
+
+Create a public /.github repo, create a /profile folder, and add a README.md
