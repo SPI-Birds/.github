@@ -1,2 +1,4 @@
-# .github
-organisation_name/.github is a special repository that you can use to add a README.md to the public organisation profile
+Organisation_name/.github is a special repository that you can use to customise the public organisation profile:
+- create a /.github repo, make it public
+- create a /profile folder
+- add a README.md
